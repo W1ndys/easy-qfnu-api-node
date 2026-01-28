@@ -1,2 +1,2 @@
 # easy-qfnu-api-node
-专为 Vercel 设计的 QFNU 教务系统 Serverless API 中间件，零成本部署。基于 Node.js + Cheerio 实现数据清洗，内置 Alpine.js + Tailwind CSS 打造的纯静态轻量级前端。A Serverless API middleware for the QFNU educational system designed for Vercel. Zero-cost deployment using Node.js and Cheerio, featuring a lightweight Alpine.js + Tailwind CSS frontend.
+基于 Vercel 的 QFNU 校园服务 Serverless 集合。零成本运行，集成教务查询、公告聚合与题库检索 API，内置 Alpine.js + Tailwind CSS 打造的现代化轻量级搜索前端。A Serverless campus service collection for QFNU on Vercel. Zero-cost solution integrating academic inquiries, news aggregation, and question bank search, featuring a lightweight Alpine.js + Tailwind CSS frontend.
